@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jorgeeke-source.github.io/comfort-xpress/sitemap.xml

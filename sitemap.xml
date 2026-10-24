@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jorgeeke-source.github.io/comfort-xpress/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jorgeeke-source.github.io/comfort-xpress/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jorgeeke-source.github.io/comfort-xpress/en/"/>
+  </url>
+  <url>
+    <loc>https://jorgeeke-source.github.io/comfort-xpress/en/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jorgeeke-source.github.io/comfort-xpress/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jorgeeke-source.github.io/comfort-xpress/en/"/>
+  </url>
+  <url>
+    <loc>https://jorgeeke-source.github.io/comfort-xpress/aeropuerto/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jorgeeke-source.github.io/comfort-xpress/aeropuerto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jorgeeke-source.github.io/comfort-xpress/en/airport/"/>
+  </url>
+  <url>
+    <loc>https://jorgeeke-source.github.io/comfort-xpress/en/airport/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jorgeeke-source.github.io/comfort-xpress/aeropuerto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jorgeeke-source.github.io/comfort-xpress/en/airport/"/>
+  </url>
+  <url>
+    <loc>https://jorgeeke-source.github.io/comfort-xpress/empresas/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jorgeeke-source.github.io/comfort-xpress/empresas/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jorgeeke-source.github.io/comfort-xpress/en/corporate/"/>
+  </url>
+  <url>
+    <loc>https://jorgeeke-source.github.io/comfort-xpress/en/corporate/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jorgeeke-source.github.io/comfort-xpress/empresas/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jorgeeke-source.github.io/comfort-xpress/en/corporate/"/>
+  </url>
+  <url>
+    <loc>https://jorgeeke-source.github.io/comfort-xpress/turismo/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jorgeeke-source.github.io/comfort-xpress/turismo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jorgeeke-source.github.io/comfort-xpress/en/tours/"/>
+  </url>
+  <url>
+    <loc>https://jorgeeke-source.github.io/comfort-xpress/en/tours/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jorgeeke-source.github.io/comfort-xpress/turismo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jorgeeke-source.github.io/comfort-xpress/en/tours/"/>
+  </url>
+  <url>
+    <loc>https://jorgeeke-source.github.io/comfort-xpress/privacidad/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jorgeeke-source.github.io/comfort-xpress/privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jorgeeke-source.github.io/comfort-xpress/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://jorgeeke-source.github.io/comfort-xpress/en/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jorgeeke-source.github.io/comfort-xpress/privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jorgeeke-source.github.io/comfort-xpress/en/privacy/"/>
+  </url>
+</urlset>
